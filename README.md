@@ -1,3 +1,3 @@
 # apple_interactive
 
-anna-agabekyan-apple-js.netlify.app
+https://anna-agabekyan-apple-js.netlify.app/
